@@ -1,0 +1,19 @@
+body {
+ background-color: rgb(54, 77, 77);
+  border: 10px solid white;      /* sirf bahar ka border */
+  margin: 20px;                 /* border aur browser edge ke beech gap */
+  padding: 05px;                /* border aur content ke beech space */
+  color: white;                 /* text readable banane ke liye */
+  text-shadow: 0cap 0 15px rgba(31, 124, 128, 0.644);
+}
+
+h1 {
+  font-style: italic;
+  text-align: center;
+  text-shadow: 0 0 5px rgb(4, 78, 72);
+}
+
+h4 {
+  font-style: oblique;
+  text-shadow: 0 0 5px rgb(2, 43, 29);
+}
